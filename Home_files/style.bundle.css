@@ -15268,3 +15268,36 @@ body.reviews-opened .wp-gr .wp-google-badge_left-fixed.is_stuck {
    line-height: 15px;
    margin-top: 20px;
 }
+
+
+.approach-tutor-card {
+   display: flex;
+   justify-content: space-between;
+}
+
+.approach-tutor-card__main {
+   width: 45%;
+   line-height: normal;
+   display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.approach-tutor-card__subtitle {
+   line-height: normal;
+}
+
+
+.approach-tutor-card__name {
+   /* font-family: CalisMTBol,"Calisto MT",serif; */
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.125em;
+    margin: 0 0 0.5em;
+    color: #010101;
+}
+
+.approach-tutor-card__subtitle {
+   font-size: 16px;
+   line-height: 1.15;
+}
